@@ -1,4 +1,10 @@
 
-public class Level {
-
+public abstract class Level {
+	
+	
+	public Level() {
+		
+	}
+	
+	public abstract void drawScreen();
 }
